@@ -1,0 +1,76 @@
+------------Employee Details-------------
+ID: 23
+Name: Malese Mac
+Date of Birth: 10/12/2001
+Gender: Male
+City: Gaborone
+Address: P O Box 140
+Title of Employment: HR Officer
+Date Hired: 01/03/2019
+Department: Transport
+Hours Worked: 13.0
+Rate of Pay: 0.15
+Leave Days: 10
+Car Allowance: true
+Monthly Gratuity: 200.0
+Tax Rate: 0.15
+Gross Pay: 201.95
+Net Pay: 171.6575
+
+------------Employee Details-------------
+ID: 023
+Name: Nasim Saidoo
+Date of Birth: 12/06/2006
+Gender: Male
+City: Marobela
+Address: P O box 232
+Title of Employment: CEO
+Date Hired: 02/02/2009
+Department: Security
+Hours Worked: 2.0
+Rate of Pay: 0.3
+Leave Days: 10
+Car Allowance: true
+Monthly Gratuity: 20.0
+Tax Rate: 0.3
+Gross Pay: 20.6
+Net Pay: 14.42
+
+------------Employee Details-------------
+ID: 001
+Name: malese mac
+Date of Birth: 12/12/12
+Gender: male
+City: gaborone
+Address: p o box 123
+Title of Employment: CEO
+Date Hired: 10/03/12
+Department: HOH
+Hours Worked: 56.0
+Rate of Pay: 100.0
+Leave Days: 10
+Car Allowance: true
+Monthly Gratuity: 200.0
+Tax Rate: 0.3
+Gross Pay: 5800.0
+Net Pay: 4059.99
+
+------------Employee Details-------------
+ID: 002
+Name: kamogelo pompanr
+Date of Birth: 02/02/04
+Gender: Female
+City: Gaborone
+Address: P O Box123
+Title of Employment: CEO
+Date Hired: 02/01/12
+Department: cleaning
+Hours Worked: 60.0
+Rate of Pay: 10.0
+Leave Days: 2
+Car Allowance: true
+Monthly Gratuity: 200.0
+Tax Rate: 0.0
+Gross Pay: 800.0
+Net Pay: 800.0
+

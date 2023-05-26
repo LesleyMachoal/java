@@ -1,0 +1,19 @@
+------------Employee Details-------------
+ID: 03
+Name: malese Machola
+Date of Birth: 12/12/12
+Gender: male
+City: Gaborone
+Address: P O Box 123
+Title of Employment: CEO
+Date Hired: 02/03/04
+Department: HOH
+Hours Worked: 15.0
+Rate of Pay: 100.0
+Leave Days: 10
+Car Allowance: true
+Monthly Gratuity: 200.0
+Tax Rate: 0.15
+Gross Pay: 1700.0
+Net Pay: 1445.0
+
